@@ -2,4 +2,4 @@ There have been many implementations of the context maintenance and retrieval mo
 
 * [CMR](https://memory.psych.upenn.edu/CMR) - archive of Matlab implementation of CMR
 * [CMR_sims](https://github.com/vucml/CMR_sims) - includes Matlab implementations of multiple versions of CMR
-* [CyMR](https://github.com/mortonne/cymr) - fast Python implementation of likelihood-based CMR
+* [CyMR](https://github.com/mortonne/cymr) - fast Python implementation of likelihood-based CMR using Cython
