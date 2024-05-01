@@ -10,7 +10,7 @@ Polyn, S. M., Norman, K. A. and Kahana, M. J. (2009) A context maintenance and r
 
 ## CMR_Sims
 
-The [CMR_Sims](https://github.com/vucml/CMR_sims) project includes Matlab implementations of multiple versions of CMR.
+The [CMR_Sims](https://github.com/vucml/CMR_sims) project includes MATLAB implementations of multiple versions of CMR.
 
 # Python
 
