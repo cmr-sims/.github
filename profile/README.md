@@ -16,4 +16,4 @@ The [CMR_Sims](https://github.com/vucml/CMR_sims) project includes MATLAB implem
 
 ## CyMR
 
-The [CyMR](https://github.com/mortonne/cymr) Python package includes a fast implementation of likelihood-based CMR written using Cython. The [CMR-CFR](https://github.com/vucml/cmr_cfr) project uses this code to simulate categorized free recall and data from the PEERS study.
+The [CyMR](https://github.com/cmr-sims/cymr) Python package includes a fast implementation of likelihood-based CMR written using Cython. The [CMR-CFR](https://github.com/cmr-sims/cmr_cfr) project uses this code to simulate categorized free recall and data from the PEERS study.
