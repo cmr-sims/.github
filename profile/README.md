@@ -1,4 +1,4 @@
-There have been many implementations of the context maintenance and retrieval model since the introduction of the temporal context model upon which it is based.
+There have been many implementations of the context maintenance and retrieval model since its introduction by Polyn, Norman, and Kahana in 2009. This organization collects these various implementations in one place.
 
 # MATLAB
 
