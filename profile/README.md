@@ -17,3 +17,7 @@ The [CMR_Sims](https://github.com/vucml/CMR_sims) project includes MATLAB implem
 ## CyMR
 
 The [CyMR](https://github.com/cmr-sims/cymr) Python package includes a fast implementation of likelihood-based CMR written using Cython. The [CMR-CFR](https://github.com/cmr-sims/cmr_cfr) project uses this code to simulate categorized free recall and data from the PEERS study.
+
+# Contributing
+
+If you would like to contribute information about a CMR implementation or add a code repository, contact one of the organization [owners](https://github.com/orgs/cmr-sims/people?query=role%3Aowner) to get access. Links to implementations can be added to this file, which is displayed on the organization home page. Please include a summary describing the type of model implemented, and a reference to any papers published using that implementation. Code repositories can also be added under the organization; they should also be referenced in the above model implementation index.
