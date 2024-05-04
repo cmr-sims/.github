@@ -8,9 +8,9 @@ The UPenn Computational Memory Lab website hosts an [archive](https://memory.psy
 
 Polyn, S. M., Norman, K. A. and Kahana, M. J. (2009) A context maintenance and retrieval model of organizational processes in free recall. Psychological Review, 116 (1), 129-156. 
 
-## CMR_Sims
+## CMR Matlab
 
-The [CMR_Sims](https://github.com/vucml/CMR_sims) project includes MATLAB implementations of multiple versions of CMR.
+The [CMR-Matlab](https://github.com/cmr-sims/cmr-matlab) project includes MATLAB implementations of multiple versions of CMR.
 
 # Python
 
